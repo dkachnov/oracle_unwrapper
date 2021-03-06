@@ -4,7 +4,7 @@
 # Original script for Python 2: niels at teusink net / blog.teusink.net
 # Adapted to Python 3: DKachnov
 #
-# License: The MIT License (MIT)
+# License: Public domain
 #
 import re
 import base64
